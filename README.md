@@ -16,5 +16,5 @@
 ### **Tools used**
 - _Font Awesome_
 
-@autor "Camilo Rueda Marchena"
-@aka SauceBoysz
+- @autor "Camilo Rueda Marchena"
+- @aka SauceBoysz
