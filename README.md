@@ -6,7 +6,7 @@
 ### As Camilo once said:
 > PlayLovers
 > Lover
-> Practie
+> Practice
 
 ### **Languages used**
 - _HTML_
